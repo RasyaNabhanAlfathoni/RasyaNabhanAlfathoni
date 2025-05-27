@@ -91,5 +91,5 @@
 ---
 
 
-> 💡 *“Turning complexity into clarity — one script, one config at a time.”*
+> 💡 *“Always Hungry Until Going a Crazy.”*
 
