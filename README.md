@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasya Nabhan Alfathoni</h1>
-<h3 align="center">Aspiring DevOps & Network Engineer | Student at SMKN 1 Cibinong | Intern at PT Solu Filantropi Teknologi</h3>
+<h3 align="center">Aspiring DevOps & Software Engineer | Diponegoro University</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0GqeSlGSRQutaoNa/giphy.gif" width="300"/>
@@ -9,15 +9,16 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently a student at **SMKN 1 Cibinong**, majoring in **Network & Software Engineering (SIJA)**
-- 🛠️ I'm building my future career as a **DevOps Engineer** and **Network Engineer**
-- 💼 Currently interning at **PT Solu Filantropi Teknologi**
+- 🔭 I’m currently a college at **Diponegoro University**, majoring in **Bachelor of Informatics**
+- 🛠️ I'm building my future career as a **DevOps Engineer** and **Software Engineer**
+- 💼 Intern experience at **PT Solu Filantropi Teknologi**
 - 🌱 I’m diving deep into:
   - Infrastructure as Code (IaC)
   - Docker, Kubernetes, CI/CD Pipelines
-  - Network Engineering
+  - Software Engineering
+  - Cyber Security
 - 🧠 I love solving complex problems and simplifying infrastructure
-- 🧑‍💻 On a mission to **bridge education and technology** for schools and industries
+- 🧑‍💻 On a mission to **bridge education and technology** for university and industries
 
 ---
 
